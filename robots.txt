@@ -1,0 +1,3 @@
+# PREVIEW: vor dem Livegang ersetzen durch "Allow: /" und die Sitemap-Zeile
+User-agent: *
+Disallow: /
