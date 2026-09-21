@@ -69,7 +69,7 @@ h1,h2,h3{font-family:var(--display);font-weight:800;letter-spacing:-.02em;margin
 .nav .wrap{position:relative;display:flex;align-items:center;justify-content:space-between;gap:16px;height:var(--head-h)}
 .brand{display:inline-flex;align-items:center;gap:12px;font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:.14em;color:#fff;white-space:nowrap}
 .brand img{width:52px;height:52px;border-radius:50%;border:2px solid rgba(255,154,213,.5)}
-.brand b{color:var(--pink-2);font-weight:800}
+.brand b{color:#e8c15a;font-weight:800}
 .nav-end{display:flex;align-items:center;gap:8px}
 .icon-btn{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:999px;border:1px solid var(--line-2);background:rgba(255,255,255,.06);color:#fff}
 .icon-btn svg{width:20px;height:20px}
