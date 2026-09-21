@@ -98,7 +98,7 @@ h1,h2,h3{font-family:var(--display);font-weight:800;letter-spacing:-.02em;margin
 .hero::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(5,3,11,.7) 0%,rgba(5,3,11,.25) 26%,rgba(5,3,11,.15) 56%,rgba(5,3,11,.72) 92%,#07050d 100%)}
 .hero .wrap{position:relative;z-index:2}
 .eyebrow{font-size:11.5px;font-weight:700;letter-spacing:.32em;text-transform:uppercase;color:var(--pink-2);text-shadow:0 2px 14px rgba(0,0,0,.6)}
-.hero h1{font-size:clamp(38px,11vw,88px);line-height:1.02;margin:18px auto 18px;max-width:14ch;text-shadow:0 6px 40px rgba(0,0,0,.75);hyphens:manual}
+.hero h1{font-size:clamp(30px,8vw,62px);line-height:1.02;margin:18px auto 18px;max-width:14ch;text-shadow:0 6px 40px rgba(0,0,0,.75);hyphens:manual}
 .hero h1 em{font-family:var(--script);font-style:italic;font-weight:500;color:var(--pink-2)}
 .hero .sub{color:rgba(255,255,255,.94);font-size:13px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;text-shadow:0 2px 16px rgba(0,0,0,.7)}
 .hero-actions{display:flex;flex-direction:column;gap:12px;margin:32px auto 0;max-width:340px}
